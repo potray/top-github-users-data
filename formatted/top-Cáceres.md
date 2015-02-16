@@ -9,8 +9,8 @@
   Sugerencias y parches en [`github-city-rankings`](http://github.com/JJ/github-city-rankings)
 
 
-| Puesto   |  Usuario  |  Contr.| Stars | Lenguajes   |      Lugar      |  Avatar |
-|----------|:---------:|-------:|-------|-------------|:---------------:|---------|
+| Puesto   |  Usuario  |Contrib.| Stars | Lenguajes   |      Lugar      |  Avatar  |
+|----------|:---------:|-------:|-------|-------------|:---------------:|----------|
 | 1 | [spaceisstrange](https://github.com/spaceisstrange) | 106 | 0 | Java | Cáceres, Spain | <img src='https://avatars2.githubusercontent.com/u/6024783?v=3&s=64' width='64' height='64' title='Fran González'> |
 | 2 | [vidaltoboso](https://github.com/vidaltoboso) | 84 | 0 |  | CÁCERES | <img src='https://avatars0.githubusercontent.com/u/4061419?v=3&s=64' width='64' height='64' title='vidaltoboso'> |
 | 3 | [csuarez](https://github.com/csuarez) | 81 | 34 | Shell | Cáceres (Spain) | <img src='https://avatars0.githubusercontent.com/u/680660?v=3&s=64' width='64' height='64' title='César Suárez Ortega'> |
