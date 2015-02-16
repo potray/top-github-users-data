@@ -10,8 +10,8 @@
   Sugerencias y parches en [`github-city-rankings`](http://github.com/JJ/github-city-rankings)
 
 
-|Puesto|      Usuario      |  Contribuciones | Stars | Lenguajes   |      Lugar      |    Avatar   |
-|------|:-----------------:|----------------:|-------|-------------|:---------------:|-------------|
+|Puto|      Usuario      |  Contribuciones | Stars | Lenguajes   |      Lugar      |    Avatar     |
+|----|:-----------------:|----------------:|-------|-------------|:---------------:|---------------|
 | 1 | [JJ](https://github.com/JJ) | 4350 | 222 | Perl | Granada, Spain, Europe | <img src='https://avatars1.githubusercontent.com/u/500?v=3&s=64' width='64' height='64' title='Juan Julián Merelo Guervós'> |
 | 2 | [stringparser](https://github.com/stringparser) | 2582 | 21 | JavaScript | Granada, Spain | <img src='https://avatars2.githubusercontent.com/u/7457705?v=3&s=64' width='64' height='64' title='Javier Carrillo'> |
 | 3 | [M42](https://github.com/M42) | 1320 | 24 | TeX | Granada, Spain | <img src='https://avatars1.githubusercontent.com/u/5337877?v=3&s=64' width='64' height='64' title='Mario Román'> |
